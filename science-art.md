@@ -1,3 +1,2 @@
-a different para about a  science topic.
+A paragraph about a science topic.
 
-plus new info
